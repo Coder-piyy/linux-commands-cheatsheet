@@ -81,4 +81,3 @@ This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-Feel free to contribute or fork this if you'd like to add more commands! 😄
