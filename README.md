@@ -67,9 +67,7 @@ This is a simple and beginner-friendly list of **25 essential Linux commands** w
 
 ---
 
-## 📌 License
 
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
